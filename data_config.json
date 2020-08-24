@@ -1,0 +1,17 @@
+{
+    "data_sources": {
+        "api": {
+            "API1": "URLHERE",
+            "API2": "URLHERE"
+        },
+        "csv": {
+            "CSVNAME": "csvname.csv"
+        },
+        "SQLDB": {
+            "username": "username",
+            "password": "password",
+            "server": "server",
+            "database": "database"
+        }
+    }
+}
